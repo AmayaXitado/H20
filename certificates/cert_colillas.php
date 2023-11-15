@@ -1,3 +1,12 @@
+<?php
+
+
+
+
+
+?> 
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -12,13 +21,13 @@
     <title>H2O Control - Ingenieria</title>
 
     <!-- Custom fonts for this template-->
-    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="../vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
     <link
         href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
         rel="stylesheet">
 
     <!-- Custom styles for this template-->
-    <link href="css/sb-admin-2.min.css" rel="stylesheet">
+    <link href="../css/sb-admin-2.min.css" rel="stylesheet">
 
 </head>
 
@@ -117,10 +126,10 @@
                 <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
                         
-                        <a class="collapse-item" href="certificates/cert_colillas.php">Colillas</a>
-                        <a class="collapse-item" href="certificates/cert_func.php">Cert. funciones</a>
-                        <a class="collapse-item" href="certificates/cert_labo.php">Cert. Laboral</a>
-                        <a class="collapse-item" href="certificates/cert_ingreso.php">Cert. Ingresos</a>
+                        <a class="collapse-item" href="/colillas.php">Colillas</a>
+                        <a class="collapse-item" href="#">Cert. funciones</a>
+                        <a class="collapse-item" href="#">Cert. Laboral</a>
+                        <a class="collapse-item" href="#">Cert. Ingresos</a>
                         
                     </div>
                 </div>
@@ -268,8 +277,12 @@
                 </nav>
                 <!-- End of Topbar -->
                 <center>
-                    <div class="sidebar-brand-text mx-3">H<sup>2o</sup> Control Ingenieria</div>
-                    <img src="img/wallpaper.jpeg" alt="Marca de Agua" class="marca-de-agua">
+
+                
+                    <h2>Colillas de pago</h2>
+
+
+
                 </center>
 
 
