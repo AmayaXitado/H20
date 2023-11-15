@@ -1,0 +1,79 @@
+/* estilos.css */
+
+/* Estilo general para el cuerpo de la página */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Estilo para el contenedor principal */
+.primary {
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 25%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo para el título */
+.tittle {
+
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+/* Estilo para el párrafo */
+.paragraph {
+    color: #666;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+/* Estilo para el input de texto */
+input[type="text"] {
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Estilo para el placeholder del input */
+input[type="text"]::placeholder {
+    color: #999;
+}
+
+/* Estilo para hover del input */
+input[type="text"]:hover {
+    border-color: #555;
+}
+
+/* estilos.css */
+
+/* Estilo para el botón de búsqueda */
+.btc {
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #4CAF50; /* Color de fondo */
+    color: #fff; /* Color del texto */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s; /* Transición suave del color de fondo */
+}
+
+/* Estilo para cambiar el color de fondo al pasar el ratón */
+.btc:hover {
+    background-color: #45a049;
+}
+
+/* Estilo para agregar sombra al hacer clic en el botón */
+.btc:active {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
