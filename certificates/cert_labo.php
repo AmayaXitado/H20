@@ -12,7 +12,7 @@
 
           <form action="../fuction/laboral.php" method="POST">
             <input type="number" name="dni" placeholder="Ingrese su Cedula"><br><br><br>
-            <button class="btc">Buscar</button>
+            <button class="btn btn-primary">Buscar</button>
           </form>
      
     </div>
