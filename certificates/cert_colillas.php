@@ -17,7 +17,8 @@
     <div class="primary">
 
         <h1 class="tittle">Colillas de Pago</h1><br>
-          <p class="paragraph">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa laboriosam provident quasi quos fugiat impedit, ab, assumenda ratione doloribus fugit porro velit facere nesciunt maxime natus distinctio, repudiandae in commodi?</p>
+          <p class="paragraph">
+           Las colillas de pago, también conocidas como recibos de nómina o talones de pago, son documentos que detallan la información salarial de un empleado para un período de pago específico. Estos documentos son esenciales tanto para los empleadores como para los empleados, ya que proporcionan transparencia en cuanto a la compensación y deducciones.</p>
 
           <form action="" method="POST">
             <input type="number" name="dni" placeholder="Ingrese su Cedula"><br><br><br>

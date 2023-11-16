@@ -17,7 +17,7 @@
     <div class="primary">
 
         <h1 class="tittle">Certificado de Ingreso</h1><br>
-          <p class="paragraph">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa laboriosam provident quasi quos fugiat impedit, ab, assumenda ratione doloribus fugit porro velit facere nesciunt maxime natus distinctio, repudiandae in commodi?</p>
+          <p class="paragraph">Un certificado de ingreso es un documento que certifica la entrada o admisión de una persona a cierto lugar, evento o institución. Puede tener diversos propósitos según el contexto en el que se emite</p>
 
           <form action="" method="POST">
             <input type="number" name="dni" placeholder="Ingrese su Cedula"><br><br><br>
